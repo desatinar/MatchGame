@@ -30,7 +30,7 @@ namespace MatchGame
             if (matchesFound == 8)
             {
                 timer.Stop();
-                timeTextBlock.Text = timeTextBlock.Text + " - Jogar novamente?";
+                timeTextBlock.Text = timeTextBlock.Text + " - Novo Jogo?";
             }
         }
 
